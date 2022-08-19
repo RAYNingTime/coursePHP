@@ -6,7 +6,6 @@ echo $_SESSION['greeting'];
 <?php
 	
 	
-	
 ?>
 
 <!DOCTYPE html>
