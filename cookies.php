@@ -9,7 +9,6 @@ if(isset($_COOKIE["SomeName"]))
 	$userValue = $_COOKIE["SomeName"];
 else
 	$userValue = "";
-	
 ?>
 
 <!DOCTYPE html>
