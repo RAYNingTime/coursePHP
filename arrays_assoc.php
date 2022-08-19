@@ -18,7 +18,6 @@
 	print_r($names);
 
 	echo "</br>" . $names['first_name'] . " " . $names['last_name'];
-
 	
 	?>
 
