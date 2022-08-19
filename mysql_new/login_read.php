@@ -4,7 +4,6 @@ include "functions.php";
 
 showAllData();
 ?>
-
 <?php include = "includes/header.php";?>
 
 <div class="container">
