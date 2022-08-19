@@ -1,5 +1,4 @@
 <?php
-
 class Car{
 
 	static $wheels = 4;
