@@ -3,7 +3,6 @@
 class Car{
 //Some info
 }
-
 //Check for a class existance
 if(class_exists("Car")){
 
