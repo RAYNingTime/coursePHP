@@ -7,7 +7,6 @@
 	<title>Document</title>
 </head>
 <body>
-	
 	<?php
 
 	//All functions : https://www.php.net/manual/en/ref.math.php
