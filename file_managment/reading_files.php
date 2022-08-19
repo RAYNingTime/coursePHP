@@ -4,6 +4,7 @@ $file = "example.txt";
 //Opens a file to 'r' - read something from file
 if($handle = fopen($file,'r')) {
 
+	
 	//Second parameter - amount of bites (bite == character)
 echo $content = fread($handle, 12) . "<br>";
 	//After it reads something it cannot read the same info again
