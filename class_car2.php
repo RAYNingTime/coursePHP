@@ -6,7 +6,6 @@ class Car{
 	}
 }
 
-
 //Check for a method in class
 if(method_exists("Car", "moveWheels")){
 
