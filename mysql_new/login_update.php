@@ -4,7 +4,6 @@ include "functions.php";
 	$query = "SELECT * FROM users";
 	$result = mysqli_query($connection, $query);
 
-
 	if(isset($_POST['submit'])) {
 		updateRows();
 	}
