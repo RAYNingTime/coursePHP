@@ -9,7 +9,6 @@
 <body>
 	
 	<?php
-	
 	//All functions : https://www.php.net/manual/en/ref.strings
 
 	$string = "Strings"
