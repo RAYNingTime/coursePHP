@@ -21,7 +21,6 @@ class Semi extends Car {
 		echo	$this -> hood;
 	}
 }
-
 $bmw = new Car();
 $semi = new Semi();
 
