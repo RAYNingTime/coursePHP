@@ -9,7 +9,6 @@
 <body>
 	
 	<?php
-	
 	$names = ["Adie", "John", "Lui", "Irina"];
 
 	function greeting($name) {
