@@ -13,7 +13,6 @@ if(isset($_POST['submit'])) {
 	if ($username && $password)
 		echo $username . "</br>" . $password;
 }
-
 ?>
 
 <!DOCTYPE html>
