@@ -1,7 +1,6 @@
 <?php
 
 class Car{
-
 	var $wheels = 4;
 	var $hood = TRUE;
 	var $engine = TRUE;
