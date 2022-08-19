@@ -14,7 +14,6 @@ $name = 'Ivan';
 $number = 100;
 
 echo ($name . " is number " . $number);
-
 ?>
 
 
