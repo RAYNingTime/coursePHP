@@ -10,7 +10,6 @@
 	
 	<h2>Comparison Operators</h2>
 	<pre>
-
 		equal ==
 		identical ===
 		compare > < >= <= <>
