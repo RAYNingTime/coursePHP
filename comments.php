@@ -13,7 +13,6 @@
 	/* Kinda sim to C++
 	Kinda sim to C++*/
 
-
 	//This function below displays text
 	
 	echo "hi";
