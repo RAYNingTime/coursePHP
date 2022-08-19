@@ -17,7 +17,6 @@ function createRows(){
 			echo "Record created";
 	}
 }
-
 function showAllData(){
 	global $connection;
 	$query = "SELECT * FROM users";
