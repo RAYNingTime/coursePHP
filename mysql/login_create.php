@@ -2,7 +2,6 @@
 include "functions.php";
 createRows();
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
