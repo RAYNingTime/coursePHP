@@ -3,7 +3,6 @@ include "functions.php";
 createRows();
 include "includes/header.php";
 ?>
-
 <div class="container">
 	<div class="col-sm-6">
 		<h1 class="text-center">Create</h1>
