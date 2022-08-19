@@ -7,7 +7,6 @@
 	<title>Document</title>
 </head>
 <body>
-	
 	<?php
 	
 	$number = 3;
