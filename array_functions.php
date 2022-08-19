@@ -9,7 +9,6 @@
 <body>
 	
 	<?php
-	
 	// All functions :https://www.php.net/manual/en/ref.array
 
 	$list = [4,5,6,7,8];
