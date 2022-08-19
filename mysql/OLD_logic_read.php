@@ -8,7 +8,6 @@
 
 	$result = mysqli_query($connection, $query);
 
-
 ?>
 
 <!DOCTYPE html>
