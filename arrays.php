@@ -9,7 +9,6 @@
 <body>
 	
 	<?php
-	
 	//More old way of declaration of the array
 	$numberList = array(13,53,63,32, '434','<h3>Hello</h3>',2);
 
