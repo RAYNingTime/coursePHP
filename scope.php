@@ -9,7 +9,6 @@
 <body>
 	
 	<?php
-	
 	$x = "outside";
 
 	function convert(){
