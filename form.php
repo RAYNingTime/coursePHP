@@ -1,5 +1,4 @@
 <?php
-	
 	const ADMIN_LOG = 'admin';
 	const ADMIN_PASS = '123';
 	$usernameList = ['Jonny', 'CoolGuy', 'CoolGuy1', 'EzBro', 'SQWOZ BAB'];
