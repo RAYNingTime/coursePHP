@@ -9,7 +9,6 @@
 <body>
 	
 	<?php
-	
 	function say_Something() {
 		echo "Something" . "</br>";
 	}
