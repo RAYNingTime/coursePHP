@@ -6,7 +6,6 @@ $_SESSION['greeting'] = "Hello World!";
 <?php
 	
 	
-	
 ?>
 
 <!DOCTYPE html>
