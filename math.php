@@ -10,7 +10,6 @@
 	
 	<?php
 	
-
 	$firstNum = 2;
 	$secondNum = 4;
 	
