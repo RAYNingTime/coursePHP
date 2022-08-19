@@ -9,6 +9,4 @@
 
 // PASSWORD_BCRYPT - Used to create a hash with CRYPT_BLOWFISH algorithm ($2y$ with indifier)
 
-
-
 ?>
