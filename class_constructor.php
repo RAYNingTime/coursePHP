@@ -1,5 +1,4 @@
 <?php
-
 class Car{
 
 	var $wheels = 4;
