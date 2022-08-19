@@ -7,7 +7,6 @@
 	<title>While loops</title>
 </head>
 <body>
-	
 	<?php
 	
 	$number = 0;
