@@ -1,6 +1,5 @@
 <?php
 
-
 	$password_from_DB = password_hash('password', PASSWORD_DEFAULT, array('cost' => 10));
 	
 	//Password from Data Base
