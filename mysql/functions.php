@@ -18,7 +18,6 @@ function createRows(){
 	}
 }
 
-
 function updateRows(){
 		$username = $_POST['username'];
 		$password = $_POST['password'];
