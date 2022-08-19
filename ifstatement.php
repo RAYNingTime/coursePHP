@@ -9,7 +9,6 @@
 <body>
 	
 	<?php
-	
 	if (3 == 10) {
 		echo "3 is equal to 10";
 	} elseif (2 > 1) {
