@@ -1,6 +1,7 @@
 <?php
 $file = "example.txt";
 
+
 //Opens a file to 'w' - write something in it
 if($handle = fopen($file,'w')) {
 
