@@ -8,7 +8,6 @@ include "functions.php";
 	if(isset($_POST['submit'])) {
 		updateRows();
 	}
-
 ?>
 
 <?php include = "includes/header.php";?>
